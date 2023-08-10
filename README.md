@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Grant, he/him
+
+*learning JavaScript*
+
+*learning HTML/CSS*
 <!--
 **grantkendall/grantkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
